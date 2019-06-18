@@ -1,2 +1,2 @@
 # CG
-SYSU 2019 CG course homework
+SYSU 2019 Computer Graphics homework repository
