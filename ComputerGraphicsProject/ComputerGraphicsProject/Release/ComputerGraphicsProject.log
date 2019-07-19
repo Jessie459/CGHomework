@@ -1,0 +1,20 @@
+﻿  glad.c
+  main.cpp
+main.cpp(32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(307): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(729): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(730): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(734): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(735): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(737): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(747): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  stb_image.cpp
+  正在生成代码
+  160 of 1133 functions (14.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    50 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ComputerGraphicsProject.vcxproj -> C:\Users\Jingxuan He\Desktop\GroupProject\ComputerGraphicsProject\Release\ComputerGraphicsProject.exe
+  ComputerGraphicsProject.vcxproj -> C:\Users\Jingxuan He\Desktop\GroupProject\ComputerGraphicsProject\Release\ComputerGraphicsProject.pdb (Full PDB)
